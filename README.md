@@ -11,7 +11,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1116/) - expert reviewed gene and genetic disease information
 - [MonarchInitiative](https://monarchinitiative.org/) - gene, disease, biological function information, including gene ortholog phenotypes
 - [UpToDate](https://www.uptodate.com/contents/search) - clinical summaries and reviews of disease (subscription required)
-- [Gnomad](https://gnomad.broadinstitute.org/) - massive population scale variant database for allele frequency and loss of function intolerance scoring and structural variation
+- [Gnomad](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
 - [GenicIntolerance](http://genic-intolerance.org/) - gene based loss of function intolerance scoring
