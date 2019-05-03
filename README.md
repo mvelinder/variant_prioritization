@@ -64,5 +64,5 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 
 ## command line tools
 
-- [GEMINI](https://github.com/arq5x/gemini) - comprehensive variant annotation and prioritization based on affected statuses in families, using a database that can be rapidly queried
-- [slivar](https://github.com/brentp/slivar) - very fast variant filtering and annotation based on mode of inheritance, population frequency and other variant annotations
+- [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
+- [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
