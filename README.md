@@ -53,8 +53,10 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [PhenIX](http://compbio.charite.de/PhenIX/) - vcf based variant prioritization considering allele frequency and phenotype information
 - [GAVIN](https://molgenis20.gcc.rug.nl/menu/main/home) - gene aware variant interpretation using vcf input
 - [HUGO](https://genenames.org/) - accepted gene nomenclature and naming conventions
+- [liftOver](https://genome.ucsc.edu/cgi-bin/hgLiftOver) - liftover coordinates between genome builds
 - [ExAC](http://exac.broadinstitute.org/) - likely superseeded by Gnomad
 - [1000Genomes](http://www.internationalgenome.org/data/) - likely superseeded by Gnomad
+- [UCSCbrowser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=724544049_pngh3ffiA9LYDPiWojHaNAcDu3CA) - supremely customizable genome browser
 - [DataMed](https://datamed.org/) - searching across large published bioinformatics data sets
 - [WashUStLEpigenome](http://epigenomegateway.wustl.edu/browser/) - epigenome browser and visualization
 - [HSF3](http://www.umd.be/HSF3/index.html) - human splice analysis and predictor
