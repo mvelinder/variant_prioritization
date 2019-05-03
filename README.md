@@ -6,7 +6,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 | --- | --- |
 | name | gene | variant | protein | model organism | expression | literature |
 | --- | --- | --- | --- | ---| --- | --- | --- |
-| - [MARRVEL](http://marrvel.org/) | ![yes](https://image.flaticon.com/icons/png/128/87/87932.png)
+| - [MARRVEL](http://marrvel.org/) | 👍
 
 ## web tools
 
