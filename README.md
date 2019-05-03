@@ -1,7 +1,7 @@
 # variant_prioritization
 purpose: a curated list of resources and tools for variant prioritization in clinical and research settings, welcoming additions and changes
 
-
+ | -based information >>> 
 name | gene | variant | protein | model organism | expression | literature
 --- | --- | --- | --- | --- | --- | ---
 [MARRVEL](http://marrvel.org/) | ✔️ | ❌ | ✔️ | ✔️ | ❌ | ❌
