@@ -37,6 +37,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [BioGRID](https://thebiogrid.org/) - protein:protein interaction networks database
 - [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
 - [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
+- [AMELIE](https://amelie.stanford.edu/) - Mendelian disease gene prioritization based on literature
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
 - [SNP](https://www.ncbi.nlm.nih.gov/snp/) - variant curation and information, dbsnp, rsID matching
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretation across multiple clinical sites and commercial testing providers
@@ -82,5 +83,13 @@ bcftools view -a -c 1 -s $SAMPLE -r chr1:10000-1000000 --threads 24 $VCF
 - [samtools](https://github.com/samtools) - bam and cram manipulation
 ```
 samtools view $BAM 1:10000-100000
+```
+- [RUFUS](https://github.com/jandrewrfarrell/RUFUS) - kmer based de novo variant caller
+```
+bash ~/bin/RUFUS/runRufus.sh -s $SAMPLEBAM -c $PARENT1BAM -c $PARENT2BAM -r $REF -t 40 -k 25
+```
+- [novoCaller](https://github.com/bgm-cwg/novoCaller) - Bayesian inspired de novo variant caller
+```
+novoCaller -I $VCF -O $OUTTXT -T $TRIO -X 1 -P 0.005 -E 0.001
 ```
 
