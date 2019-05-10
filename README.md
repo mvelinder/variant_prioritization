@@ -62,8 +62,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [HSF3](http://www.umd.be/HSF3/index.html) - human splice analysis and predictor
 - [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 
-## command line tools
-#### including a typical, but not authoritative, usage
+## command line tools - including a typical, but not authoritative, usage
 
 - [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
 ```
