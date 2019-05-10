@@ -10,6 +10,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
 - [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1116/) - expert reviewed gene and genetic disease information
 - [MonarchInitiative](https://monarchinitiative.org/) - gene, disease, biological function information, including gene ortholog phenotypes
+- [iobio](http://iobio.io/) - real time genomic analysis tools for QC and variant prioritization
 - [UpToDate](https://www.uptodate.com/contents/search) - clinical summaries and reviews of disease (subscription required)
 - [Gnomad](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
