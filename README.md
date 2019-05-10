@@ -66,7 +66,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 
 - [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
 ```
-gemini load -t VEP -v $VEPVCF --cores 24 -p $PED $VEPVCF.gem.db
+gemini load -t VEP -v $VEPVCF --cores 24 -p $PED $GEMDB
 ```
 - [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
 ```
