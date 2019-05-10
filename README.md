@@ -62,7 +62,9 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [HSF3](http://www.umd.be/HSF3/index.html) - human splice analysis and predictor
 - [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 
-## command line tools
+## command line tools (including a typical, but not authoritative usage)
 
 - [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
+`gemini load -t VEP -v $VCF.vep.vcf.gz --cores 24 -p $PED $VCF.gem.db`
 - [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
+`slivar_static expr --vcf $VCF --ped $PED --pass-only --js $JS -g $GNOMAD --trio "denovo:denovo(kid, mom, dad) && hqrv(variant, INFO, '0.01')" --trio "x_denovo:x_denovo(kid, mom, dad) && hqrv(variant, INFO, '0.01') && (variant.CHROM == 'X' || variant.CHROM == 'chrX')" --trio "recessive:recessive(kid, mom, dad) && hqrv(variant, INFO, '0.01')" --trio "x_recessive:x_recessive(kid, mom, dad) && hqrv(variant, INFO, '0.01') && (variant.CHROM == 'X' || variant.CHROM == 'chrX')"`
