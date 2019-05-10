@@ -28,6 +28,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [PheGenI](https://www.ncbi.nlm.nih.gov/gap/phegeni/) - gene:disease associations using underlying GWAS data
 - [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) - gene and variant disease/phenotype association using publicly available datasets
 - [Genomenon](https://www.genomenon.com/) - variant interpretation, associated literature, automatic notification if there are new publications
+- [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
 - [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
 - [ProteinAtlas](http://www.proteinatlas.org/) - RNA and protein level gene expression across tissues and subcellular localization
 - [GTEx](https://gtexportal.org/) - RNA and protein level gene expression across tissues
@@ -51,6 +52,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [DGV](http://dgv.tcag.ca/dgv/app/home) - database of strutural variation
 - [EBI](http://www.ebi.ac.uk/) - aggregate gene information, similar to NIH resources
 - [BeaconNetwork](https://beacon-network.org/) - variant matching across numerous large databases, absent phenotype information
+- [MyGene2](https://mygene2.org/MyGene2/) - gene and variant matching
 - [PhenIX](http://compbio.charite.de/PhenIX/) - vcf based variant prioritization considering allele frequency and phenotype information
 - [GAVIN](https://molgenis20.gcc.rug.nl/menu/main/home) - gene aware variant interpretation using vcf input
 - [HUGO](https://genenames.org/) - accepted gene nomenclature and naming conventions
@@ -81,3 +83,4 @@ bcftools view -a -c 1 -s $SAMPLE -r chr1:10000-1000000 --threads 24 $VCF
 ```
 samtools view $BAM 1:10000-100000
 ```
+
