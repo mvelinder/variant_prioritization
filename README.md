@@ -93,3 +93,7 @@ bash ~/bin/RUFUS/runRufus.sh -s $SAMPLEBAM -c $PARENT1BAM -c $PARENT2BAM -r $REF
 novoCaller -I $VCF -O $OUTTXT -T $TRIO -X 1 -P 0.005 -E 0.001
 ```
 
+## data
+
+- [PathwayCommons_All](https://www.pathwaycommons.org/archives/PC2/v11/PathwayCommons11.All.hgnc.txt.gz) - combined pathway, interaction, PTM databases such as BioGRID, IntAct, KEGG and others in one easy-to-use file
+- [Gnomad_Genomes_AllChr_VCF](https://storage.googleapis.com/gnomad-public/release/2.1.1/vcf/genomes/gnomad.genomes.r2.1.1.sites.vcf.bgz) - Gnomad genomes VCF for all chromosomes
