@@ -18,6 +18,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [GenicIntolerance](http://genic-intolerance.org/) - gene based loss of function intolerance scoring
 - [Phenomizer](http://compbio.charite.de/phenomizer/) - phenotype based gene list generation using HPO terms
 - [Phenolyzer](http://phenolyzer.wglab.org/) - gene list generation using disease and phenotype terms
+- [GeneNetwork](https://www.genenetwork.nl/) - gene networks from HPO terms
 - [Mendelian](https://app.mendelian.co/) - phenotype based differential diagnosis tool including gene list generation
 - [PubCaseFinder](https://pubcasefinder.dbcls.jp/) - phenotype based differential diagnosis and suspected disease predictor
 - [PhenotypeGenerator](https://www.kimg.eu/generator/) - phenotype based gene list generation using HPO terms
