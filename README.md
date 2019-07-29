@@ -75,12 +75,12 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 ```
 slivar_static expr --vcf $VCF --ped $PED --pass-only --js $JS -g $GNOMAD --trio "denovo:denovo(kid, mom, dad) && hqrv(variant, INFO, '0.01')" --trio "x_denovo:x_denovo(kid, mom, dad) && hqrv(variant, INFO, '0.01') && (variant.CHROM == 'X' || variant.CHROM == 'chrX')" --trio "recessive:recessive(kid, mom, dad) && hqrv(variant, INFO, '0.01')" --trio "x_recessive:x_recessive(kid, mom, dad) && hqrv(variant, INFO, '0.01') && (variant.CHROM == 'X' || variant.CHROM == 'chrX')"
 ```
+```
+slivar_static gnotate --gnotate $GNOMAD --threads 4 --expr 'INFO.gnomad_popmax_af < 0.01' -o $VCF.gnotate.maf.0.01.vcf.gz $VCF
 - [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
 ```
 gemini load -t VEP -v $VEPVCF --cores 24 -p $PED $GEMDB
 ```
-```
-slivar_static gnotate --gnotate $GNOMAD --threads 4 --expr 'INFO.gnomad_popmax_af < 0.01' -o $VCF.gnotate.maf.0.01.vcf.gz $VCF
 ```
 - [bcftools](https://github.com/samtools/bcftools) - vcf and bcf manipulation
 ```
