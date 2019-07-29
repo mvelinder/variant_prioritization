@@ -100,6 +100,9 @@ novoCaller -I $VCF -O $OUTTXT -T $TRIO -X 1 -P 0.005 -E 0.001
 ```
 - [CN_Learn](https://github.com/girirajanlab/CN_Learn) - machine learning for exome copy number calling
 - [PathoPredictor](https://github.com/samesense/pathopredictor) - missense variant classifier
+- [HipSTR](https://github.com/tfwillems/HipSTR) - genotype short tandem repeats
+- [ExpansionHunter](https://github.com/Illumina/ExpansionHunter) - estimating repeat expansion sizes
+
 
 ## data
 
