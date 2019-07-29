@@ -77,10 +77,10 @@ slivar_static expr --vcf $VCF --ped $PED --pass-only --js $JS -g $GNOMAD --trio 
 ```
 ```
 slivar_static gnotate --gnotate $GNOMAD --threads 4 --expr 'INFO.gnomad_popmax_af < 0.01' -o $VCF.gnotate.maf.0.01.vcf.gz $VCF
+```
 - [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
 ```
 gemini load -t VEP -v $VEPVCF --cores 24 -p $PED $GEMDB
-```
 ```
 - [bcftools](https://github.com/samtools/bcftools) - vcf and bcf manipulation
 ```
