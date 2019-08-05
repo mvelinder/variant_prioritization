@@ -51,6 +51,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [Reactome](https://reactome.org/) - signaling and regulatory pathway database with visualizations
 - [denovo-db](http://denovo-db.gs.washington.edu/denovo-db/) - database of de novo variants from publicly available datasets
 - [RCSB-PDB](https://www.rcsb.org/) - protein structure database
+- [VarMap](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/DisaStr/GetPage.pl?varmap=TRUE) - genomic coordinate mapping to protein sequence and structure
 - [GeneMatcher](https://genematcher.org/) - gene:disease matchmaking resource
 - [dbVar](https://www.ncbi.nlm.nih.gov/dbvar) - database of strutural variation
 - [DGV](http://dgv.tcag.ca/dgv/app/home) - database of strutural variation
