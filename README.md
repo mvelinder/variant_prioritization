@@ -100,6 +100,10 @@ bash ~/bin/RUFUS/runRufus.sh -s $SAMPLEBAM -c $PARENT1BAM -c $PARENT2BAM -r $REF
 ```
 novoCaller -I $VCF -O $OUTTXT -T $TRIO -X 1 -P 0.005 -E 0.001
 ```
+- [manta](https://github.com/Illumina/manta) - sv calling
+```
+manta --bam=bam1.bam --bam=bam2.bam --referenceFasta=hg19.fa --runDir=./ ; python runWorkflow.py
+```
 - [CN_Learn](https://github.com/girirajanlab/CN_Learn) - machine learning for exome copy number calling
 - [PathoPredictor](https://github.com/samesense/pathopredictor) - missense variant classifier
 - [HipSTR](https://github.com/tfwillems/HipSTR) - genotype short tandem repeats
