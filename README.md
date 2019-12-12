@@ -5,6 +5,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 
 - [MARRVEL](http://marrvel.org/) - model organism focused gene information
 - [Varsome](https://varsome.com/) - aggregate gene and variant information 
+- [Franklin](https://franklin.genoox.com/) - variant interpretation and information
 - [HumanMine](http://www.humanmine.org/) - aggregate gene information
 - [GeneCards](http://www.genecards.org/) - aggregate gene information
 - [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
