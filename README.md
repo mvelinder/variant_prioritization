@@ -9,6 +9,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [HumanMine](http://www.humanmine.org/) - aggregate gene information
 - [GeneCards](http://www.genecards.org/) - aggregate gene information
 - [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
+  - [ClinGen CNV](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
 - [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1116/) - expert reviewed gene and genetic disease information
 - [MonarchInitiative](https://monarchinitiative.org/) - gene, disease, biological function information, including gene ortholog phenotypes
 - [iobio](http://iobio.io/) - real time genomic analysis tools for QC and variant prioritization
