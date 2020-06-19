@@ -75,47 +75,19 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [HSF3](http://www.umd.be/HSF3/index.html) - human splice analysis and predictor
 - [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 
-## command line tools - including a typical, but not authoritative, usage
+## command line tools
 
 - [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
-```
-slivar_static expr --vcf $VCF --ped $PED --pass-only --js $JS -g $GNOMAD --trio "denovo:denovo(kid, mom, dad) && hqrv(variant, INFO, '0.01')" --trio "x_denovo:x_denovo(kid, mom, dad) && hqrv(variant, INFO, '0.01') && (variant.CHROM == 'X' || variant.CHROM == 'chrX')" --trio "recessive:recessive(kid, mom, dad) && hqrv(variant, INFO, '0.01')" --trio "x_recessive:x_recessive(kid, mom, dad) && hqrv(variant, INFO, '0.01') && (variant.CHROM == 'X' || variant.CHROM == 'chrX')"
-```
-```
-slivar_static gnotate --gnotate $GNOMAD --threads 4 --expr 'INFO.gnomad_popmax_af < 0.01' -o $VCF.gnotate.maf.0.01.vcf.gz $VCF
-```
+- [VEP](https://uswest.ensembl.org/info/docs/tools/vep/script/index.html) - variant consequence and annotation, including plugins and custom plugins
 - [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
-```
-gemini load -t VEP -v $VEPVCF --cores 24 -p $PED $GEMDB
-```
+- [smoove](https://github.com/brentp/smoove) - structural variant calling, but smoothly
 - [bcftools](https://github.com/samtools/bcftools) - vcf and bcf manipulation
-```
-bcftools view -a -c 1 -s $SAMPLE -r chr1:10000-1000000 --threads 24 $VCF
-```
 - [samtools](https://github.com/samtools) - bam and cram manipulation
-```
-samtools view $BAM 1:10000-100000
-```
+- [AnnotSV](https://lbgi.fr/AnnotSV/) - SV annotation into easy formats
 - [RUFUS](https://github.com/jandrewrfarrell/RUFUS) - kmer based de novo variant caller
-```
-bash ~/bin/RUFUS/runRufus.sh -s $SAMPLEBAM -c $PARENT1BAM -c $PARENT2BAM -r $REF -t 40 -k 25
-```
 - [novoCaller](https://github.com/bgm-cwg/novoCaller) - Bayesian inspired de novo variant caller
-```
-novoCaller -I $VCF -O $OUTTXT -T $TRIO -X 1 -P 0.005 -E 0.001
-```
 - [manta](https://github.com/Illumina/manta) - sv calling
-```
-manta --bam=bam1.bam --bam=bam2.bam --referenceFasta=hg19.fa --runDir=./ ; python runWorkflow.py
-```
 - [CN_Learn](https://github.com/girirajanlab/CN_Learn) - machine learning for exome copy number calling
 - [PathoPredictor](https://github.com/samesense/pathopredictor) - missense variant classifier
 - [HipSTR](https://github.com/tfwillems/HipSTR) - genotype short tandem repeats
 - [ExpansionHunter](https://github.com/Illumina/ExpansionHunter) - estimating repeat expansion sizes
-
-
-## data
-
-- [PathwayCommons11.All.hgnc.txt.gz](https://www.pathwaycommons.org/archives/PC2/v11/PathwayCommons11.All.hgnc.txt.gz) - combined pathway, interaction databases such as BioGRID, IntAct, KEGG and others
-- [gnomad.genomes.r2.1.1.sites.vcf.bgz](https://storage.googleapis.com/gnomad-public/release/2.1.1/vcf/genomes/gnomad.genomes.r2.1.1.sites.vcf.bgz) - Gnomad genomes VCF for all chromosomes
-- [gnomad.v2.1.1.lof_metrics.by_gene.txt.bgz](https://storage.googleapis.com/gnomad-public/release/2.1.1/constraint/gnomad.v2.1.1.lof_metrics.by_gene.txt.bgz) - Gnomad LoF and pLI metrics
