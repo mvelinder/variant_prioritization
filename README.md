@@ -7,6 +7,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [Varsome](https://varsome.com/) - aggregate gene and variant information 
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
+- [PhenCards](https://phencards.org/) - phenotype catalog and searching
 - [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
 - [Franklin](https://franklin.genoox.com/) - variant interpretation and information
 - [HumanMine](http://www.humanmine.org/) - aggregate gene information
