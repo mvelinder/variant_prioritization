@@ -22,6 +22,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [Gnomad](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
+- [GADO](https://genenetwork.nl/gado/) - gene list generation and prioritization given a set of HPO terms
 - [GenicIntolerance](http://genic-intolerance.org/) - gene based loss of function intolerance scoring
 - [Phenomizer](http://compbio.charite.de/phenomizer/) - phenotype based gene list generation using HPO terms
 - [Phenolyzer](http://phenolyzer.wglab.org/) - gene list generation using disease and phenotype terms
