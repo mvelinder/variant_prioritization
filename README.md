@@ -42,6 +42,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [DIDA](http://dida.ibsquare.be/) - curated digenic disease database and gene pairs for oligogenic inheritance 
 - [ProteinAtlas](http://www.proteinatlas.org/) - RNA and protein level gene expression across tissues and subcellular localization
 - [GTEx](https://gtexportal.org/) - RNA and protein level gene expression across tissues
+- [DICE](https://dice-database.org/) - gene expression and eQTLs in specific immune cell types
 - [BioPlex](http://bioplex.hms.harvard.edu/) - protein:protein interaction networks database
 - [InnateDB](http://www.innatedb.ca/) - protein:protein interaction networks database
 - [BioGRID](https://thebiogrid.org/) - protein:protein interaction networks database
