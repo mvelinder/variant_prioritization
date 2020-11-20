@@ -52,6 +52,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
 - [AMELIE](https://amelie.stanford.edu/) - Mendelian disease gene prioritization based on literature
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
+- [BRAVO](https://bravo.sph.umich.edu/) - web tool for exploring TOPMed data
 - [SNP](https://www.ncbi.nlm.nih.gov/snp/) - variant curation and information, dbsnp, rsID matching
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretation across multiple clinical sites and commercial testing providers
 - [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
