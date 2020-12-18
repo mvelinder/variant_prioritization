@@ -6,6 +6,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [MARRVEL](http://marrvel.org/) - model organism focused gene and variant information
 - [Varsome](https://varsome.com/) - aggregate gene and variant information 
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
+- [GenCC](https://thegencc.org) - multiple gene:disease curation efforts in one place
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 - [PhenCards](https://phencards.org/) - phenotype catalog and searching
 - [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
