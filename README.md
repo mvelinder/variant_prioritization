@@ -87,7 +87,8 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 
 - [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
 - [VEP](https://uswest.ensembl.org/info/docs/tools/vep/script/index.html) - variant consequence and annotation, including plugins and custom plugins
-- [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
+- [SVAFotate](https://github.com/fakedrtom/SVAFotate) - structural variant population allele frequency annotation
+- [manta](https://github.com/Illumina/manta) - sv calling
 - [smoove](https://github.com/brentp/smoove) - structural variant calling, but smoothly
 - [bcftools](https://github.com/samtools/bcftools) - vcf and bcf manipulation
 - [samtools](https://github.com/samtools) - bam and cram manipulation
@@ -95,9 +96,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [ClassifyCNV](https://github.com/Genotek/ClassifyCNV)
 - [RUFUS](https://github.com/jandrewrfarrell/RUFUS) - kmer based de novo variant caller
 - [novoCaller](https://github.com/bgm-cwg/novoCaller) - Bayesian inspired de novo variant caller
-- [manta](https://github.com/Illumina/manta) - sv calling
-- [CN_Learn](https://github.com/girirajanlab/CN_Learn) - machine learning for exome copy number calling
 - [PathoPredictor](https://github.com/samesense/pathopredictor) - missense variant classifier
 - [HipSTR](https://github.com/tfwillems/HipSTR) - genotype short tandem repeats
 - [ExpansionHunter](https://github.com/Illumina/ExpansionHunter) - estimating repeat expansion sizes
-- [SVAFotate](https://github.com/fakedrtom/SVAFotate)
+- [GEMINI](https://github.com/arq5x/gemini) - builds a queryable database with comprehensive variant annotations
