@@ -9,6 +9,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [genebass](https://genebass.org/) - web browsing of UK Biobank genotype:phenotype data
 - [GenCC](https://thegencc.org) - multiple gene:disease curation efforts in one place
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
+- [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
 - [PhenCards](https://phencards.org/) - phenotype catalog and searching
 - [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
 - [Franklin](https://franklin.genoox.com/) - variant interpretation and information
