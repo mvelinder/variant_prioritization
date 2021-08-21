@@ -84,6 +84,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [HSF3](http://www.umd.be/HSF3/index.html) - human splice analysis and predictor
 - [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 - [Smart](https://smart.servier.com/) - free medical and biological art for presentations 
+- [BioRender](https://biorender.com/) - biological figure and presentation creation
 
 ## command line tools
 
