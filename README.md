@@ -97,7 +97,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [bcftools](https://github.com/samtools/bcftools) - vcf and bcf manipulation
 - [samtools](https://github.com/samtools) - bam and cram manipulation
 - [AnnotSV](https://lbgi.fr/AnnotSV/) - SV annotation into easy formats
-- [ClassifyCNV](https://github.com/Genotek/ClassifyCNV)
+- [ClassifyCNV](https://github.com/Genotek/ClassifyCNV) - classify CNVs according to ACMG criteria
 - [RUFUS](https://github.com/jandrewrfarrell/RUFUS) - kmer based de novo variant caller
 - [novoCaller](https://github.com/bgm-cwg/novoCaller) - Bayesian inspired de novo variant caller
 - [PathoPredictor](https://github.com/samesense/pathopredictor) - missense variant classifier
