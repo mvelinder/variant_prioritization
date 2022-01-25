@@ -44,6 +44,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
 - [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
 - [DIDA](http://dida.ibsquare.be/) - curated digenic disease database and gene pairs for oligogenic inheritance 
+- [dbPTM](https://awi.cuhk.edu.cn/dbPTM/) - database of protein post-translational modifications
 - [ProteinAtlas](http://www.proteinatlas.org/) - RNA and protein level gene expression across tissues and subcellular localization
 - [GTEx](https://gtexportal.org/) - RNA and protein level gene expression across tissues
 - [DICE](https://dice-database.org/) - gene expression and eQTLs in specific immune cell types
