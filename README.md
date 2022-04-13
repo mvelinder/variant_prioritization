@@ -12,6 +12,7 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [EVE](https://evemodel.org/) - evolutionary model of variant effects
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 - [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
+- [EGA](https://ega-archive.org/) - aggregate genome:phenome associations
 - [PhenCards](https://phencards.org/) - phenotype catalog and searching
 - [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
 - [Franklin](https://franklin.genoox.com/) - variant interpretation and information
