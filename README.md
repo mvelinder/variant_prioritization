@@ -1,7 +1,7 @@
 # variant_prioritization
 purpose: a curated list of resources and tools for variant prioritization in clinical and research settings, always welcoming additions and changes
 
-## web tools
+## web tools / data sets
 
 - [MARRVEL](http://marrvel.org/) - model organism focused gene and variant information
 - [Varsome](https://varsome.com/) - aggregate gene and variant information 
