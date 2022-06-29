@@ -10,6 +10,9 @@ purpose: a curated list of resources and tools for variant prioritization in cli
 - [GenCC](https://thegencc.org) - multiple gene:disease curation efforts in one place
 - [LitVar](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=) - variant based literature searching
 - [EVE](https://evemodel.org/) - evolutionary model of variant effects
+- [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
+- [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
+- [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 - [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
 - [EGA](https://ega-archive.org/) - aggregate genome:phenome associations
