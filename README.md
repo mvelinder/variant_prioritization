@@ -1,5 +1,5 @@
 # variant_prioritization
-purpose: a curated list of resources and tools for variant prioritization in clinical and research settings, always welcoming additions and changes
+purpose: a curated list (in no particular order) of resources and tools for variant prioritization in clinical and research settings, always welcoming additions and changes
 
 ## web tools / data sets
 
