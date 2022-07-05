@@ -3,54 +3,87 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 
 ## web tools / data sets
 
-- [MARRVEL](http://marrvel.org/) - model organism focused gene and variant information
+### aggregate tools
 - [Varsome](https://varsome.com/) - aggregate gene and variant information 
-- [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
-- [genebass](https://genebass.org/) - web browsing of UK Biobank genotype:phenotype data
+- [MARRVEL](http://marrvel.org/) - model organism focused gene and variant information
 - [GenCC](https://thegencc.org) - multiple gene:disease curation efforts in one place
-- [LitVar](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=) - variant based literature searching
+- [Franklin](https://franklin.genoox.com/) - variant interpretation and information
+- [GeneCards](http://www.genecards.org/) - aggregate gene information
+- [PhenCards](https://phencards.org/) - phenotype catalog and searching
+- [HumanMine](http://www.humanmine.org/) - aggregate gene information
+- [MonarchInitiative](https://monarchinitiative.org/) - gene, disease, biological function information, including gene ortholog phenotypes
+- [iobio](http://iobio.io/) - real time genomic analysis tools for QC and variant prioritization
+- [UCSCbrowser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=724544049_pngh3ffiA9LYDPiWojHaNAcDu3CA) - supremely customizable genome browser
+- [WashUStLEpigenome](http://epigenomegateway.wustl.edu/browser/) - epigenome browser and visualization
+
+
+
+
+### manually curated knowledge bases
+- [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
+- [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
+- [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
+  - [CNV Interpretation](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
+- [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
+- [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
+
+
+### missense impact predictions
 - [EVE](https://evemodel.org/) - evolutionary model of variant effects
 - [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
 - [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
 - [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
-- [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
+
+
+### literature and clinical knowledge 
+- [LitVar](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=) - variant based literature searching
+- [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1116/) - expert reviewed gene and genetic disease information
+- [UpToDate](https://www.uptodate.com/contents/search) - clinical summaries and reviews of disease (subscription required)
+- [Genomenon](https://www.genomenon.com/) - variant interpretation, associated literature, automatic notification if there are new publications
+- [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
+
+
+### specific data set exploration
+- [gnomAD](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
+- [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
+- [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
+- [genebass](https://genebass.org/) - web browsing of UK Biobank genotype:phenotype data
 - [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
 - [EGA](https://ega-archive.org/) - aggregate genome:phenome associations
-- [PhenCards](https://phencards.org/) - phenotype catalog and searching
-- [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
-- [Franklin](https://franklin.genoox.com/) - variant interpretation and information
-- [HumanMine](http://www.humanmine.org/) - aggregate gene information
-- [GeneCards](http://www.genecards.org/) - aggregate gene information
-- [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
-  - [CNV Interpretation](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
-- [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1116/) - expert reviewed gene and genetic disease information
-- [MonarchInitiative](https://monarchinitiative.org/) - gene, disease, biological function information, including gene ortholog phenotypes
-- [PERviewer](http://per.broadinstitute.org/) - pathogenic variant enriched regions across genes and gene families
-- [iobio](http://iobio.io/) - real time genomic analysis tools for QC and variant prioritization
-- [UpToDate](https://www.uptodate.com/contents/search) - clinical summaries and reviews of disease (subscription required)
-- [Gnomad](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
-- [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
-- [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
-- [GADO](https://genenetwork.nl/gado/) - gene list generation and prioritization given a set of HPO terms
-- [GenicIntolerance](http://genic-intolerance.org/) - gene based loss of function intolerance scoring
-- [Phenomizer](http://compbio.charite.de/phenomizer/) - phenotype based gene list generation using HPO terms
+- [PERviewer](http://per.broadinstitute.org/) - pathogenic variant enriched regions across genes and gene families in gnomAD
+- [PheGenI](https://www.ncbi.nlm.nih.gov/gap/phegeni/) - gene:disease associations using underlying GWAS data
+- [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) - gene and variant disease/phenotype association using publicly available datasets
+- [BRAVO](https://bravo.sph.umich.edu/) - web tool for exploring TOPMed data
+- [dbVar](https://www.ncbi.nlm.nih.gov/dbvar) - database of strutural variation
+- [DGV](http://dgv.tcag.ca/dgv/app/home) - database of strutural variation
+- [ExAC](http://exac.broadinstitute.org/) - superseeded by Gnomad
+- [1000Genomes](http://www.internationalgenome.org/data/) - superseeded by Gnomad
+
+### gene:phenotype information
+- [HPO](https://hpo.jax.org/) - human phenotype ontology
+- [GTR](https://www.ncbi.nlm.nih.gov/gtr/) - genetic testing registry, phenotype, disease, genetic test information
+- [AMELIE](https://amelie.stanford.edu/) - Mendelian disease gene prioritization based on literature
 - [Phenolyzer](http://phenolyzer.wglab.org/) - gene list generation using disease and phenotype terms
 - [GeneNetwork](https://www.genenetwork.nl/) - gene networks from HPO terms
 - [Mendelian](https://app.mendelian.co/) - phenotype based differential diagnosis tool including gene list generation
 - [PubCaseFinder](https://pubcasefinder.dbcls.jp/) - phenotype based differential diagnosis and suspected disease predictor
 - [PhenotypeGenerator](https://www.kimg.eu/generator/) - phenotype based gene list generation using HPO terms
-- [HPO](https://hpo.jax.org/) - human phenotype ontology
-- [GTR](https://www.ncbi.nlm.nih.gov/gtr/) - genetic testing registry, phenotype, disease, genetic test information
 - [PanelApp](https://panelapp.genomicsengland.co.uk/) - expert crowdsourced gene panels
 - [gene2phenotype](https://www.ebi.ac.uk/gene2phenotype) - phenotype and biological process information using gene inputs
-- [PheGenI](https://www.ncbi.nlm.nih.gov/gap/phegeni/) - gene:disease associations using underlying GWAS data
-- [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) - gene and variant disease/phenotype association using publicly available datasets
-- [Genomenon](https://www.genomenon.com/) - variant interpretation, associated literature, automatic notification if there are new publications
-- [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
-- [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
+- [GADO](https://genenetwork.nl/gado/) - gene list generation and prioritization given a set of HPO terms
+- [Phenomizer](http://compbio.charite.de/phenomizer/) - phenotype based gene list generation using HPO terms
+
+### gene:drug interactions
+- [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
+- [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
+- [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
+
+### genetic and protein interactions
 - [DIDA](http://dida.ibsquare.be/) - curated digenic disease database and gene pairs for oligogenic inheritance 
 - [dbPTM](https://awi.cuhk.edu.cn/dbPTM/) - database of protein post-translational modifications
+
+### gene and protein expression, pathway information
 - [ProteinAtlas](http://www.proteinatlas.org/) - RNA and protein level gene expression across tissues and subcellular localization
 - [GTEx](https://gtexportal.org/) - RNA and protein level gene expression across tissues
 - [DICE](https://dice-database.org/) - gene expression and eQTLs in specific immune cell types
@@ -59,38 +92,25 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [BioGRID](https://thebiogrid.org/) - protein:protein interaction networks database
 - [IntAct](https://www.ebi.ac.uk/intact/) - molecular interaction database
 - [PathwayCommons](https://www.pathwaycommons.org/) - compiled pathway, interaction database
-- [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
-- [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
-- [AMELIE](https://amelie.stanford.edu/) - Mendelian disease gene prioritization based on literature
-- [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
-- [BRAVO](https://bravo.sph.umich.edu/) - web tool for exploring TOPMed data
-- [SNP](https://www.ncbi.nlm.nih.gov/snp/) - variant curation and information, dbsnp, rsID matching
-- [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretation across multiple clinical sites and commercial testing providers
-- [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
-- [KEGG](http://www.genome.jp/kegg/pathway.html) - biochemical pathway visualizations and information
-- [GO](http://geneontology.org/) - gene ontology, biological pathway enrichment, biological process, molecular function
-- [signalink](http://signalink.org/) - signaling pathway cross-talks, transcription factors, miRNAs and regulatory enzymes
 - [Reactome](https://reactome.org/) - signaling and regulatory pathway database with visualizations
-- [denovo-db](http://denovo-db.gs.washington.edu/denovo-db/) - database of de novo variants from publicly available datasets
-- [RCSB-PDB](https://www.rcsb.org/) - protein structure database
-- [VarMap](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/DisaStr/GetPage.pl?varmap=TRUE) - genomic coordinate mapping to protein sequence and structure
-- [GeneMatcher](https://genematcher.org/) - gene:disease matchmaking resource
-- [dbVar](https://www.ncbi.nlm.nih.gov/dbvar) - database of strutural variation
-- [DGV](http://dgv.tcag.ca/dgv/app/home) - database of strutural variation
-- [EBI](http://www.ebi.ac.uk/) - aggregate gene information, similar to NIH resources
-- [BeaconNetwork](https://beacon-network.org/) - variant matching across numerous large databases, absent phenotype information
+- [KEGG](http://www.genome.jp/kegg/pathway.html) - biochemical pathway visualizations and information
+- [signalink](http://signalink.org/) - signaling pathway cross-talks, transcription factors, miRNAs and regulatory enzymes
+- [GO](http://geneontology.org/) - gene ontology, biological pathway enrichment, biological process, molecular function
+
+
+### other
+- [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
+- [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
 - [MyGene2](https://mygene2.org/MyGene2/) - gene and variant matching
-- [PhenIX](http://compbio.charite.de/PhenIX/) - vcf based variant prioritization considering allele frequency and phenotype information
-- [GAVIN](https://molgenis20.gcc.rug.nl/menu/main/home) - gene aware variant interpretation using vcf input
+- [GeneMatcher](https://genematcher.org/) - gene:disease matchmaking resource
+- [denovo-db](http://denovo-db.gs.washington.edu/denovo-db/) - database of de novo variants from publicly available datasets
+- [VarMap](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/DisaStr/GetPage.pl?varmap=TRUE) - genomic coordinate mapping to protein sequence and structure
+- [RCSB-PDB](https://www.rcsb.org/) - protein structure database
+- [BeaconNetwork](https://beacon-network.org/) - variant matching across numerous large databases, absent phenotype information
 - [HUGO](https://genenames.org/) - accepted gene nomenclature and naming conventions
 - [liftOver](https://genome.ucsc.edu/cgi-bin/hgLiftOver) - liftover coordinates between genome builds
-- [ExAC](http://exac.broadinstitute.org/) - likely superseeded by Gnomad
-- [1000Genomes](http://www.internationalgenome.org/data/) - likely superseeded by Gnomad
-- [UCSCbrowser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=724544049_pngh3ffiA9LYDPiWojHaNAcDu3CA) - supremely customizable genome browser
 - [DataMed](https://datamed.org/) - searching across large published bioinformatics data sets
-- [WashUStLEpigenome](http://epigenomegateway.wustl.edu/browser/) - epigenome browser and visualization
 - [HSF3](http://www.umd.be/HSF3/index.html) - human splice analysis and predictor
-- [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 - [Smart](https://smart.servier.com/) - free medical and biological art for presentations 
 - [BioRender](https://biorender.com/) - biological figure and presentation creation
 
@@ -98,6 +118,7 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 
 - [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
 - [VEP](https://uswest.ensembl.org/info/docs/tools/vep/script/index.html) - variant consequence and annotation, including plugins and custom plugins
+- [vcfanno](https://github.com/brentp/vcfanno) - annotate vcfs with other vcfs/beds/bams
 - [SVAFotate](https://github.com/fakedrtom/SVAFotate) - structural variant population allele frequency annotation
 - [manta](https://github.com/Illumina/manta) - sv calling
 - [smoove](https://github.com/brentp/smoove) - structural variant calling, but smoothly
