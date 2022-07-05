@@ -24,11 +24,17 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 
-### missense impact predictions
-- [EVE](https://evemodel.org/) - evolutionary model of variant effects
+### biological impact predictions
+- [EVE](https://evemodel.org/) - evolutionary model of missense variant effects
 - [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
 - [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
+- [SpliceAI](https://github.com/Illumina/SpliceAI) - deep learning method for predicting splice impacts
+  - [SpliceAI Lookup](https://spliceailookup.broadinstitute.org/) - easy SpliceAI lookup
+- [ConSplice](https://github.com/mikecormier/ConSplice) - splice variant impact predictions modeled on constraint
+- [DeepSEA](http://deepsea.princeton.edu/) - deep learning approach to predict variant chromatin and regulatory effects
+- [ExPecto](https://github.com/FunctionLab/ExPecto) - deep learning approach to predict variant expression effects in specific tissues
+- [Basenji](https://github.com/calico/basenji) - deep CNN approach to predict variant chromatin and regulatory effects
 - [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
 
 ### literature and clinical knowledge 
@@ -91,9 +97,8 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [signalink](http://signalink.org/) - signaling pathway cross-talks, transcription factors, miRNAs and regulatory enzymes
 - [GO](http://geneontology.org/) - gene ontology, biological pathway enrichment, biological process, molecular function
 
-### other
-- [DeepSEA](http://deepsea.princeton.edu/) - deep learning approach to predict variant chromatin and regulatory effects
-- [Basenji](https://github.com/calico/basenji) - deep CNN approach to predict variant chromatin and regulatory effects
+### biological effect computational 
+
 - [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
 - [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
 - [MyGene2](https://mygene2.org/MyGene2/) - gene and variant matching
