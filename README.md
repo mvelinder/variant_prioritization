@@ -93,6 +93,7 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 
 ### other
 - [DeepSEA](http://deepsea.princeton.edu/) - deep learning approach to predict variant chromatin and regulatory effects
+- [Basenji](https://github.com/calico/basenji) - deep CNN approach to predict variant chromatin and regulatory effects
 - [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
 - [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
 - [MyGene2](https://mygene2.org/MyGene2/) - gene and variant matching
