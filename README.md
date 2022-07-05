@@ -17,10 +17,11 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [WashUStLEpigenome](http://epigenomegateway.wustl.edu/browser/) - epigenome browser and visualization
 
 ### manually curated knowledge bases
-- [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
+- [OMIM](http://omim.org/) - Online Mendelian Inheritance in Man, gene:disease association, gene function, variant molecular genetics
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
 - [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
   - [CNV Interpretation](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
+- [HGMD](http://www.hgmd.cf.ac.uk/ac/index.php) - curated gene:disease associations based on literature, with public and paid version
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 
