@@ -11,6 +11,7 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [LitVar](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=) - variant based literature searching
 - [EVE](https://evemodel.org/) - evolutionary model of variant effects
 - [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
+- [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
 - [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
