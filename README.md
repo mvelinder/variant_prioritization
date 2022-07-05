@@ -16,9 +16,6 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [UCSCbrowser](https://genome.ucsc.edu/cgi-bin/hgTracks?hgsid=724544049_pngh3ffiA9LYDPiWojHaNAcDu3CA) - supremely customizable genome browser
 - [WashUStLEpigenome](http://epigenomegateway.wustl.edu/browser/) - epigenome browser and visualization
 
-
-
-
 ### manually curated knowledge bases
 - [OMIM](http://omim.org/) - online Mendelian inheritance in man, gene:disease association, gene function, variant molecular genetics
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
@@ -27,14 +24,12 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 
-
 ### missense impact predictions
 - [EVE](https://evemodel.org/) - evolutionary model of variant effects
 - [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
 - [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
 - [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
-
 
 ### literature and clinical knowledge 
 - [LitVar](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=) - variant based literature searching
@@ -43,8 +38,7 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [Genomenon](https://www.genomenon.com/) - variant interpretation, associated literature, automatic notification if there are new publications
 - [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 
-
-### specific data set exploration
+### specific data sets and visualuzations
 - [gnomAD](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
 - [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
@@ -96,7 +90,6 @@ purpose: a curated list (in no particular order) of resources and tools for vari
 - [KEGG](http://www.genome.jp/kegg/pathway.html) - biochemical pathway visualizations and information
 - [signalink](http://signalink.org/) - signaling pathway cross-talks, transcription factors, miRNAs and regulatory enzymes
 - [GO](http://geneontology.org/) - gene ontology, biological pathway enrichment, biological process, molecular function
-
 
 ### other
 - [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
