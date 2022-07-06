@@ -100,7 +100,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [GO](http://geneontology.org/) - gene ontology, biological pathway enrichment, biological process, molecular function
 - [Cytoscape](https://cytoscape.org/) - open source software for network and pathway visualization
 
-### biological effect computational 
+### other
 
 - [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
 - [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
