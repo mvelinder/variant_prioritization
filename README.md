@@ -81,6 +81,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
 
 ### genetic and protein interactions
+- [HumanBase](https://humanbase.io/) - machine learning driven biological knowledge
 - [DIDA](http://dida.ibsquare.be/) - curated digenic disease database and gene pairs for oligogenic inheritance 
 - [dbPTM](https://awi.cuhk.edu.cn/dbPTM/) - database of protein post-translational modifications
 
