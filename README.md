@@ -98,6 +98,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [KEGG](http://www.genome.jp/kegg/pathway.html) - biochemical pathway visualizations and information
 - [signalink](http://signalink.org/) - signaling pathway cross-talks, transcription factors, miRNAs and regulatory enzymes
 - [GO](http://geneontology.org/) - gene ontology, biological pathway enrichment, biological process, molecular function
+- [Cytoscape](https://cytoscape.org/) - open source software for network and pathway visualization
 
 ### biological effect computational 
 
