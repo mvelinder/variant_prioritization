@@ -49,6 +49,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [gnomAD](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
 - [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
+- [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - catalog of GWAS associations from EBI/NHGRI
 - [genebass](https://genebass.org/) - web browsing of UK Biobank genotype:phenotype data
 - [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
 - [EGA](https://ega-archive.org/) - aggregate genome:phenome associations
