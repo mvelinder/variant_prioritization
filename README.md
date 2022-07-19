@@ -45,17 +45,11 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [Genomenon](https://www.genomenon.com/) - variant interpretation, associated literature, automatic notification if there are new publications
 - [GHR](https://ghr.nlm.nih.gov/) - genetics home resource of genetic diseases written more for a lay audience
 
-### specific data sets and visualuzations
+### specific data sets and visualizations
 - [gnomAD](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
 - [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
-- [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - catalog of GWAS associations from EBI/NHGRI
-- [genebass](https://genebass.org/) - web browsing of UK Biobank genotype:phenotype data
-- [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
-- [EGA](https://ega-archive.org/) - aggregate genome:phenome associations
 - [PERviewer](http://per.broadinstitute.org/) - pathogenic variant enriched regions across genes and gene families in gnomAD
-- [PheGenI](https://www.ncbi.nlm.nih.gov/gap/phegeni/) - gene:disease associations using underlying GWAS data
-- [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) - gene and variant disease/phenotype association using publicly available datasets
 - [BRAVO](https://bravo.sph.umich.edu/) - web tool for exploring TOPMed data
 - [dbVar](https://www.ncbi.nlm.nih.gov/dbvar) - database of strutural variation
 - [DGV](http://dgv.tcag.ca/dgv/app/home) - database of strutural variation
@@ -65,6 +59,12 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 ### gene:phenotype information
 - [HPO](https://hpo.jax.org/) - human phenotype ontology
 - [GTR](https://www.ncbi.nlm.nih.gov/gtr/) - genetic testing registry, phenotype, disease, genetic test information
+- [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - catalog of GWAS associations from EBI/NHGRI
+- [PheGenI](https://www.ncbi.nlm.nih.gov/gap/phegeni/) - gene:disease associations using underlying GWAS data
+- [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) - gene and variant disease/phenotype association using publicly available datasets
+- [genebass](https://genebass.org/) - web browsing of UK Biobank genotype:phenotype data
+- [AZPheWas](https://azphewas.com/) - gene:phenotype associations from the UK Biobank
+- [EGA](https://ega-archive.org/) - aggregate genome:phenome associations
 - [AMELIE](https://amelie.stanford.edu/) - Mendelian disease gene prioritization based on literature
 - [Phenolyzer](http://phenolyzer.wglab.org/) - gene list generation using disease and phenotype terms
 - [GeneNetwork](https://www.genenetwork.nl/) - gene networks from HPO terms
@@ -77,6 +77,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [Phenomizer](http://compbio.charite.de/phenomizer/) - phenotype based gene list generation using HPO terms
 
 ### gene:drug interactions
+- [Open Targets](https://genetics.opentargets.org/) - gene:disease/phenotype association focused on drug targets
 - [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
 - [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
