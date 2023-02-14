@@ -20,7 +20,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [OMIM](http://omim.org/) - Online Mendelian Inheritance in Man, gene:disease association, gene function, variant molecular genetics
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
 - [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
-  - [CNV Interpretation](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
+  - [CNV-Interpretation](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
 - [HGMD](http://www.hgmd.cf.ac.uk/ac/index.php) - curated gene and variant disease associations based on literature, with public and paid version
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
@@ -31,7 +31,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
 - [SpliceAI](https://github.com/Illumina/SpliceAI) - deep learning method for predicting splice impacts
-  - [SpliceAI Lookup](https://spliceailookup.broadinstitute.org/) - easy SpliceAI lookup
+  - [SpliceAI-Lookup](https://spliceailookup.broadinstitute.org/) - easy SpliceAI lookup
 - [ConSplice](https://github.com/mikecormier/ConSplice) - splice variant impact predictions modeled on constraint
 - [DeepSEA](http://deepsea.princeton.edu/) - deep learning approach to predict variant chromatin and regulatory effects
 - [ExPecto](https://github.com/FunctionLab/ExPecto) - deep learning approach to predict variant expression effects in specific tissues
@@ -83,7 +83,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
 
 ### single cell data
-- [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell) - data portal for finding single cell datasets across organisms and diseases
+- [SingleCellPortal](https://singlecell.broadinstitute.org/single_cell) - data portal for finding single cell datasets across organisms and diseases
 - [MouseBrain](http://mousebrain.org/) - single cell expression data through mouse prenatal and postnatal development
 - [GutCellAtlas](https://www.gutcellatlas.org/) - single cell expression data across gut tissues and disease states
 - [Descartes](https://descartes.brotmanbaty.org/) - single cell expression data across human development and chromatin state, plus other organisms
