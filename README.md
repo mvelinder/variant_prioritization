@@ -82,6 +82,12 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
 
+### single cell atlases
+- [MouseBrain](http://mousebrain.org/) - single cell expression data through mouse prenatal and postnatal development
+- [GutCellAtlas](https://www.gutcellatlas.org/) - single cell expression data across gut tissues and disease states
+- [Descartes](https://descartes.brotmanbaty.org/) - single cell expression data across human development and chromatin state, plus other organisms
+- [HumanFetalGutAtlas](https://simmonslab.shinyapps.io/FetalAtlasDataPortal/) - single cell expression data through human fetal gut development
+
 ### genetic and protein interactions
 - [HumanBase](https://humanbase.io/) - machine learning driven biological knowledge
 - [DIDA](http://dida.ibsquare.be/) - curated digenic disease database and gene pairs for oligogenic inheritance 
