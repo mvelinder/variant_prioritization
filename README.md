@@ -131,6 +131,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [slivar](https://github.com/brentp/slivar) - rapid variant filtering and annotation for prioritization
 - [VEP](https://uswest.ensembl.org/info/docs/tools/vep/script/index.html) - variant consequence and annotation, including plugins and custom plugins
 - [vcfanno](https://github.com/brentp/vcfanno) - annotate vcfs with other vcfs/beds/bams
+- [CADD-SV](https://github.com/kircherlab/CADD-SV) - pathogenicity scoring for SVs
 - [SVAFotate](https://github.com/fakedrtom/SVAFotate) - structural variant population allele frequency annotation
 - [manta](https://github.com/Illumina/manta) - sv calling
 - [smoove](https://github.com/brentp/smoove) - structural variant calling, but smoothly
