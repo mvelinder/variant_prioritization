@@ -76,7 +76,8 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [GADO](https://genenetwork.nl/gado/) - gene list generation and prioritization given a set of HPO terms
 - [Phenomizer](http://compbio.charite.de/phenomizer/) - phenotype based gene list generation using HPO terms
 
-### gene:drug interactions
+### gene:drug interactions and pharmacogenomics
+- [PAnno](https://github.com/PreMedKB/PAnno) - pharmacogenomic variant annotation and interpretation from a VCF input
 - [Open Targets](https://genetics.opentargets.org/) - gene:disease/phenotype association focused on drug targets
 - [PHAROS](https://pharos.ncats.nih.gov/) - gene:drug interaction and information, the druggable genome
 - [TargetValidation](https://www.targetvalidation.org/) - gene and phenotype based genetic associations, pathways, drug targets
