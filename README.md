@@ -26,6 +26,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
 
 ### biological impact predictions
+- [MaveDB](https://www.mavedb.org/) - database of Multiplexed Assays of Variant Effect
 - [EVE](https://evemodel.org/) - evolutionary model of missense variant effects
 - [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
 - [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
