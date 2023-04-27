@@ -29,12 +29,12 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [MaveDB](https://www.mavedb.org/) - database of Multiplexed Assays of Variant Effect
 - [EVE](https://evemodel.org/) - evolutionary model of missense variant effects
 - [REVEL](https://sites.google.com/site/revelgenomics/) - missense variant pathogenicity prediction 
-- [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [MutScore](https://mutscore-wgt7hvakhq-ew.a.run.app/) - missense variant pathogenicity prediction 
 - [SpliceAI](https://github.com/Illumina/SpliceAI) - deep learning method for predicting splice impacts
   - [SpliceAI-Lookup](https://spliceailookup.broadinstitute.org/) - easy SpliceAI lookup
 - [ConSplice](https://github.com/mikecormier/ConSplice) - splice variant impact predictions modeled on constraint
 - [DeepSEA](http://deepsea.princeton.edu/) - deep learning approach to predict variant chromatin and regulatory effects
+- [COSMIS](https://github.com/CapraLab/cosmis) - 3D mutational constraint on amino acid sites in the human proteome
 - [ExPecto](https://github.com/FunctionLab/ExPecto) - deep learning approach to predict variant expression effects in specific tissues
 - [Basenji](https://github.com/calico/basenji) - deep CNN approach to predict variant chromatin and regulatory effects
 - [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
