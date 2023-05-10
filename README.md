@@ -118,6 +118,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
 - [MyGene2](https://mygene2.org/MyGene2/) - gene and variant matching
 - [GeneMatcher](https://genematcher.org/) - gene:disease matchmaking resource
+- [ModelMatcher](https://www.modelmatcher.net/) - gene and mdoel organism matching for variants/genes of uncertain significance
 - [denovo-db](http://denovo-db.gs.washington.edu/denovo-db/) - database of de novo variants from publicly available datasets
 - [VarMap](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/DisaStr/GetPage.pl?varmap=TRUE) - genomic coordinate mapping to protein sequence and structure
 - [RCSB-PDB](https://www.rcsb.org/) - protein structure database
