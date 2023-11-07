@@ -87,6 +87,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [DGIdb](http://www.dgidb.org/) - drug:gene interaction database for potential therapeutic targets
 
 ### single cell data
+- [CellxGene](https://cellxgene.cziscience.com/) - single cell data visualization and download across a large number of datasets
 - [SingleCellPortal](https://singlecell.broadinstitute.org/single_cell) - data portal for finding single cell datasets across organisms and diseases
 - [MouseBrain](http://mousebrain.org/) - single cell expression data through mouse prenatal and postnatal development
 - [GutCellAtlas](https://www.gutcellatlas.org/) - single cell expression data across gut tissues and disease states
