@@ -49,6 +49,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 ### specific data sets and visualizations
 - [gnomAD](https://gnomad.broadinstitute.org/) - population scale variant allele frequency,loss of function intolerance scoring and structural variation
 - [RGC](https://rgc-research.regeneron.com/) - million exome variant browser from regeneron
+- [Pangolin](https://github.com/broadinstitute/pangolin) - deep-learning based method for predicting splice site strengths with scores for gnomAD
 - [CCR](https://s3.us-east-2.amazonaws.com/ccrs/ccr.html) - constrained coding regions metric visual portal
 - [DECIPHER](https://decipher.sanger.ac.uk/) - gene:disease association from Deciphering Developmental Disorders (DDD) Study
 - [PERviewer](http://per.broadinstitute.org/) - pathogenic variant enriched regions across genes and gene families in gnomAD
