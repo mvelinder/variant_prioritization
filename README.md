@@ -118,7 +118,8 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 ### other
 
 - [Normalizer](https://mutalyzer.nl/normalizer) - "normalize" a variant description to HGVS
-- [PhenoTips](https://phenotips.org/) - free open source software for managing phenotype and pedigree information 
+- [PhenoTips](https://phenotips.org/) - for managing phenotype and pedigree information
+- [OpenPedigree](https://github.com/phenotips/open-pedigree) - free open source pedigree drawing software
 - [TRUSST](https://www.grnpedia.org/trrust/) - transcriptional regulatory relationships using text mining
 - [MyGene2](https://mygene2.org/MyGene2/) - gene and variant matching
 - [GeneMatcher](https://genematcher.org/) - gene:disease matchmaking resource
