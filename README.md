@@ -21,6 +21,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) - clinical variant interpretations
 - [ClinGen](https://www.clinicalgenome.org/) - expert curated gene:disease associations
   - [CNV-Interpretation](http://cnvcalc.clinicalgenome.org/cnvcalc/) - CNV pathogenicity calculator
+- [STRipy](https://stripy.org/) - curated database for short tandem repeats (STRs) and associated annotations
 - [HGMD](http://www.hgmd.cf.ac.uk/ac/index.php) - curated gene and variant disease associations based on literature, with public and paid version
 - [MedGen](https://www.ncbi.nlm.nih.gov/medgen/) - clinically focused gene and disease information including literature review
 - [SimpleClinVar](http://simple-clinvar.broadinstitute.org/) - simplied summaries and views of ClinVar data
