@@ -64,6 +64,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 ### gene:phenotype information
 - [HPO](https://hpo.jax.org/) - human phenotype ontology
 - [GTR](https://www.ncbi.nlm.nih.gov/gtr/) - genetic testing registry, phenotype, disease, genetic test information
+- [DiseaseSearch](https://diseases.jensenlab.org/Search) - gene:disease assocations based on literature mining
 - [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - catalog of GWAS associations from EBI/NHGRI
 - [PheGenI](https://www.ncbi.nlm.nih.gov/gap/phegeni/) - gene:disease associations using underlying GWAS data
 - [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/phenoscanner) - gene and variant disease/phenotype association using publicly available datasets
