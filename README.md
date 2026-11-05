@@ -8,6 +8,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [MARRVEL](http://marrvel.org/) - model organism focused gene and variant information
 - [GenCC](https://thegencc.org) - multiple gene:disease curation efforts in one place
 - [Franklin](https://franklin.genoox.com/) - variant interpretation and information
+- [Folklore ACMG/AMP Variant Classification](https://folklore.helena.bio/acmg-variant-classification) - free browser tool for a single human germline SNV or simple indel under 50 bp on GRCh38, with reported ACMG/AMP criteria, sources and separate ClinVar assertions when available
 - [GeneCards](http://www.genecards.org/) - aggregate gene information
 - [PhenCards](https://phencards.org/) - phenotype catalog and searching
 - [HumanMine](http://www.humanmine.org/) - aggregate gene information
