@@ -42,6 +42,7 @@ purpose: a curated list of resources and tools (mostly) for variant prioritizati
 - [VEST4](https://karchinlab.org/apps/appVest.html) - missense variant pathogenicity prediction
 
 ### literature and clinical knowledge 
+- [Paper Possum](https://paperpossum.info/) - variant literature search with source context, ACMG evidence review and Excel export (free during beta; workspace account required)
 - [LitVar](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/LitVar/#!?query=) - variant based literature searching
 - [GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1116/) - expert reviewed gene and genetic disease information
 - [UpToDate](https://www.uptodate.com/contents/search) - clinical summaries and reviews of disease (subscription required)
